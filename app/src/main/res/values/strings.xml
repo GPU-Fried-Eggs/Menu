@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu</string>
+
+    <string name="nav_categories">Categories</string>
+
+    <string name="loading_error">Oops! We can\'t connect to the internet.</string>
+</resources>
